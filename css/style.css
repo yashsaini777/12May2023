@@ -1,0 +1,21 @@
+/* .y_cont {
+    border: dashed 2px red;
+}
+ */
+header {
+    height: 110px;
+    background-color: #9933cc;
+}
+
+main {
+    min-height: 500px;
+}
+
+.y_tbdr{ /* tempory border*/
+    /* border: dashed 1px #000; */
+}
+
+footer {
+    height: 69px;
+    background-color: #0099cc;
+}
